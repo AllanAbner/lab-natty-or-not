@@ -38,7 +38,6 @@ Você pode visualizar a descrição do desafio deste projeto através [DESSE LIN
 ## Expert
 
 <p><a href="https://www.linkedin.com/in/allanabner/">LinkedIn</a>&nbsp;|&nbsp;
-/p>
 
 ⌨️ com 💜 por [Allan Abner](https://github.com/AllanAbner)
 
