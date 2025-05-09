@@ -12,7 +12,7 @@ Olá pessoal, me chamo Allan Abner ! Inspirado na hype _"Natty or Not"_ do fisic
 
 Vídeo - Natural ou Fake Natty? Como Vencer na Era das IAs Generativas<br/><br/>
 
-## 🚀 Tecnologias utilizadas no projeto 
+## 🚀 Tecnologias utilizadas no projeto
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
